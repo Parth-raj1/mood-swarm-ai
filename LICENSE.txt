@@ -1,0 +1,4 @@
+Copyright (c) 2025 Parth
+
+This code is licensed for non-commercial, educational, and demonstration use only.
+Reproduction or redistribution for commercial purposes without written permission is prohibited.
