@@ -1,35 +1,22 @@
-# 😊 Mood Optimization Swarm API
-**Evolves AI personalities for better conversations**
+# 😊 Mood Optimization Swarm API  
+**Evolving AI personalities for more natural, emotionally aware conversations**
 
-## 🚀 How It Works
-- Creates agents with random traits (tone, response style, timing)
-- Mutates top performers each generation
-- Scores agents on mood impact
-- Visualizes evolutionary progress
+## 🚀 Overview  
+This project simulates a swarm of AI agents with diverse conversational traits (tone, style, timing) that evolve over generations to optimize mood impact and engagement. Instead of traditional gradient-based learning, it uses instinct-driven mutations and fitness scoring inspired by swarm intelligence.
 
-## 📆 Files
-- `voice_agent.py`: Core logic for agent traits, mutation, and fitness evaluation
-- `mood_swarm.py`: Evolutionary simulation and plotting
-- `requirements.txt`: Python dependencies
-- `swarm_demo.png`: Fitness graph image
+## 📂 Key Files  
+- `voice_agent.py` — Defines agent traits, mutation logic, and fitness evaluation  
+- `mood_swarm.py` — Runs the evolutionary simulation and visualizes results  
+- `requirements.txt` — Lists Python dependencies  
+- `swarm_demo.png` — Sample graph showing fitness improvements over generations  
 
-## ✨ Demo
+## ✨ Demo  
 ![Fitness Over Generations](swarm_demo.png)
 
-## 🔧 Usage
+## 🔧 How to Use  
 ```bash
-# Install dependencies
+# Install required packages
 pip install -r requirements.txt
 
-# Run simulation
+# Run the evolutionary simulation
 python mood_swarm.py
-```
-
-## 🌟 Built By
-Parth (17yo AI researcher)
-> *No coding classes — pure instinct + AI collaboration*
-
-## 📄 License
-Free to view, not to reuse.  
-For educational/demo purposes only.  
-Commercial use prohibited without permission.
