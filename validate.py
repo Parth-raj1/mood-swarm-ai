@@ -2,7 +2,7 @@ import hashlib
 import getpass
 
 # Confidential token (user must input)
-CORRECT_TOKEN = "mood-swarm-8F4R9P2Q"
+CORRECT_TOKEN = " os.environ["VALIDATION_SECRET"]"
 SIGNATURE = "ffd7e4c0b5a2e8d3a1f6c9b0e7d2a8c3"
 
 def verify_token(token):
